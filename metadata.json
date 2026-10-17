@@ -1,0 +1,6 @@
+{
+  "name": "PDF Merge & Document Studio",
+  "description": "Professional PDF editor to import PDFs and JPG images from your device, organize and reorder pages, rotate, stamp watermarks and page numbers, merge into a single PDF, and download directly to your device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
